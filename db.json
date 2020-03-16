@@ -1,0 +1,45 @@
+{
+  "customers": [
+    {
+      "id": "27000000",
+      "dni": "27000000",
+      "name": "JUAN PEREZ",
+      "age": 39
+    },
+    {
+      "id": "30000001",
+      "dni": "30000001",
+      "name": "eduardo",
+      "age": 24
+    },
+    {
+      "id": "33000000",
+      "dni": "33000000",
+      "name": "Luis Martinez",
+      "age": 32
+    },
+    {
+      "name": "EDUARDO 2",
+      "dni": "1029",
+      "age": 25,
+      "id": "F4HTee8"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
